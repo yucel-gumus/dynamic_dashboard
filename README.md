@@ -2,6 +2,13 @@
 
 Enerji tüketim verilerini görselleştiren, sürükle-bırak özellikli dashboard uygulaması.
 
+**GitHub:** [yucel-gumus/dynamic_dashboard](https://github.com/yucel-gumus/dynamic_dashboard)
+
+```bash
+git clone https://github.com/yucel-gumus/dynamic_dashboard.git
+cd dynamic_dashboard
+```
+
 ## Proje Hakkında
 
 Enerji yönetimi için geliştirilmiş interaktif kontrol paneli. KPI kartları ve grafikleri sürükleyip düzenleyebilir, widget ekleyip çıkarabilir, ayarları kaydedebilirsiniz.
