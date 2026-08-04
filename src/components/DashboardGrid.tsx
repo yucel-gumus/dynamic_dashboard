@@ -62,6 +62,9 @@ export const DashboardGrid = () => {
                         onLayoutChange={onLayoutChange}
                         isEditMode={isEditMode}
                     />
+                    <footer className="mt-8 pt-4 pb-2 text-center text-xs text-gray-500 dark:text-gray-400 border-t border-gray-200 dark:border-gray-800">
+                        <p>Geliştirici: <a href="https://www.yucelgumus.dev/" target="_blank" rel="noopener noreferrer" className="font-semibold underline hover:text-gray-900 dark:hover:text-white transition-colors">Yücel Gümüş</a></p>
+                    </footer>
                 </div>
             </div>
         </DndContext>
